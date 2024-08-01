@@ -1,6 +1,10 @@
 # Pantry Tracker Using React and Gemini Vision Pro
 
-![App Screenshot](./images/screenshot.png)
+<p align="center">
+  <img src="./images/screenshot.png" alt="Pantry Tracker Screenshot">
+</p>
+
+This app lets you add your products and look for those products in your patry using AI. It also counts the number of products it sees. The frontend is made using React and the backend is made using FastAPI.
 
 ## How to Install
 
