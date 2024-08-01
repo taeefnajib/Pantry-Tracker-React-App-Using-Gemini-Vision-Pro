@@ -1,0 +1,14 @@
+# Ignore the virtual environment folder
+venv/
+
+# Ignore the .env file and __pycache__ folder inside the Backend folder
+Backend/.env
+Backend/__pycache__/
+
+# Ignore the node_modules folder and package-lock.json file inside the Frontend folder
+Frontend/node_modules/
+Frontend/package-lock.json
+
+# Optionally, ignore system-specific files and folders
+.DS_Store
+Thumbs.db
