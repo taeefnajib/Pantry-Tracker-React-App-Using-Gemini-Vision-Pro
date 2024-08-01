@@ -1,5 +1,7 @@
 # Pantry Tracker Using React and Gemini Vision Pro
 
+![App Screenshot](./images/screenshot.png)
+
 ## How to Install
 
 ### Pre-requisite
